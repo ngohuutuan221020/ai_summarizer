@@ -21,13 +21,13 @@ const Hero = () => {
 
       <h1 className='head_text'>
         <div>
-        Block ads and pop-ups on YouTube, Facebook, Twitch, and your favorite websites.
+       
         </div>
       Tổng hợp bài viết với<br className='max-md:hidden' />
-        <span className='orange_gradient '>OpenAI GPT-4</span>
+        <span className='orange_gradient '> OpenAI GPT-4</span>
       </h1>
       <h2 className='desc'>
-      Đơn giản hóa việc đọc của bạn với Summize, một công cụ tóm tắt bài báo mã nguồn mở giúp chuyển đổi các bài báo dài thành các bản tóm tắt rõ ràng và súc tích
+      Đơn giản hóa việc đọc của bạn với Article Extractor and Summarizer, một công cụ tóm tắt bài báo mã nguồn mở giúp chuyển đổi các bài báo dài thành các bản tóm tắt rõ ràng và súc tích
       </h2>
     </header>
   );
