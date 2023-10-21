@@ -20,6 +20,9 @@ const Hero = () => {
       </nav>
 
       <h1 className='head_text'>
+        <div>
+        Block ads and pop-ups on YouTube, Facebook, Twitch, and your favorite websites.
+        </div>
       Tổng hợp bài viết với<br className='max-md:hidden' />
         <span className='orange_gradient '>OpenAI GPT-4</span>
       </h1>
